@@ -76,7 +76,7 @@ Currently very strong at:
 
 Also good with:
 
-Bourne Shell, C, C++, gettext, GIS, HTML5, Java, JavaScript, [Jinja2](http://jinja.pocoo.org/docs/), [Tornado Web Server](http://www.tornadoweb.org/en/stable/), [Twitter Bootstrap](http://twitter.github.com/bootstrap/)
+Bourne Shell, C, C++, gettext, GIS, HTML5, Java, JavaScript, [Jinja2](http://jinja.pocoo.org/docs/), [Sphinx](http://sphinx-doc.org/), [Tornado Web Server](http://www.tornadoweb.org/en/stable/), [Twitter Bootstrap](http://twitter.github.com/bootstrap/)
 
 ## Open Source
 
@@ -85,7 +85,7 @@ Former maintainer and current primary contributor to [mrjob](https://github.com/
 Created and wrote most of:
 
 * [dateglob](https://github.com/Yelp/dateglob): convert date ranges to glob expressions
-* [doloop](https://github.com/Yelp/doloop): a task loop for keeping things updated 
+* [doloop](https://github.com/Yelp/doloop): a task loop for keeping things updated
 * [mr3po](https://github.com/Yelp/mr3po): extra protocols for mrjob
 * [s3mysqldump](https://github.com/Yelp/s3mysqldump): dump tables from MySQL to S3
 
