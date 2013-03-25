@@ -78,7 +78,7 @@ Also good with:
 
 Bourne Shell, C, C++, gettext, GIS, HTML5, Java, JavaScript, [Jinja2](http://jinja.pocoo.org/docs/), [Tornado Web Server](http://www.tornadoweb.org/en/stable/), [Twitter Bootstrap](http://twitter.github.com/bootstrap/)
 
-## Open Source
+## Open Source
 
 Former maintainer and current primary contributor to [mrjob](https://github.com/Yelp/mrjob), a Python Hadoop Streaming library that integrates well with Amazon Elastic MapReduce. Over 200,000 downloads from [PyPI](https://pypi.python.org).
 
