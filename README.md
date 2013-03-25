@@ -1,4 +1,1 @@
-resume
-======
-
-my resume, in markdown format
+resume.md
